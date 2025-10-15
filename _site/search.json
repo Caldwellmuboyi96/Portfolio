@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Customer Churn Analysis",
+    "section": "",
+    "text": "📊 Customer Churn Analysis and Prediction\nThis project analyzed customer data to predict churn and identify key factors driving attrition.\nTools: R, Python (scikit-learn), Power BI\nHighlights: - Built predictive model to identify at-risk customers\n- Created visual dashboards to track churn rates\n- Proposed actionable strategies to enhance customer retention"
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "#👋 Hi, I’m Caldwell Muboyi\n🎓 Statistics Graduate (University of Zimbabwe, 2.1 Class)\n💡 Data Analyst skilled in R, Python, and Power BI\nI’m passionate about turning data into insights, creating interactive dashboards, and helping businesses make data-driven decisions.\nExplore: - My Projects in R & Python\n- My BCG Tech Store where I share tech products and solutions\n- And more about me!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nI’m Caldwell Muboyi, a Statistics graduate from the University of Zimbabwe with a 2.1 class degree.\nI specialize in data analysis using R and Python, integrating them via Reticulate, and building interactive dashboards in Power BI and Excel."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "👋 Hi, I’m Caldwell Muboyi",
+    "section": "",
+    "text": "👋 Hi, I’m Caldwell Muboyi\n🎓 Statistics Graduate (University of Zimbabwe, 2.1 Class)\n💡 Data Analyst skilled in R, Python, and Power BI\nI’m passionate about turning data into insights, creating interactive dashboards, and helping businesses make data-driven decisions.\nExplore: - My Projects in R & Python\n- My BCG Tech Store where I share tech products and solutions\n- And more about me!"
+  }
+]

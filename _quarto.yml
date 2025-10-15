@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Caldwell Muboyi | Portfolio"
+  navbar:
+    background: "#002855"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        menu:
+          - text: "Customer Churn Analysis"
+            href: projects/churn-analysis.qmd
+          - text: "Power BI Dashboards"
+            href: projects/powerbi-dashboards.qmd
+          - text: "R & Python Integration"
+            href: projects/r-python-integration.qmd
+      - text: "BCG Tech Store"
+        menu:
+          - text: "Store Home"
+            href: bcg-tech-store/index.qmd
+          - text: "Products"
+            href: bcg-tech-store/products.qmd
+          - text: "Contact"
+            href: bcg-tech-store/contact.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+

@@ -1,0 +1,8 @@
+---
+title: ""
+---
+
+# About Me
+
+I'm **Caldwell Muboyi**, a Statistics graduate from the **University of Zimbabwe** with a 2.1 class degree.\
+I specialize in **data analysis using R and Python**, integrating them via **Reticulate**, and building interactive dashboards in **Power BI** and **Excel**.

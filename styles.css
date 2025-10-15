@@ -1,0 +1,18 @@
+/* css styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  font-weight: 600;
+}
+
+h1, h2 {
+  color: #002855;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}

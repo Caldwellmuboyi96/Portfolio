@@ -1,0 +1,14 @@
+---
+title: ""
+---
+
+# 👋 Hi, I'm Caldwell Muboyi
+
+🎓 **Statistics Graduate** (University of Zimbabwe, 2.1 Class)\
+💡 **Data Analyst** skilled in **R**, **Python**, and **Power BI**
+
+I’m passionate about turning data into insights, creating interactive dashboards, and helping businesses make data-driven decisions.
+
+Explore: - My [**Projects**](projects/churn-analysis.qmd) in R & Python\
+- My [**BCG Tech Store**](bcg-tech-store/index.qmd) where I share tech products and solutions\
+- And more about [**me**](about.qmd)!
