@@ -6,7 +6,6 @@ website:
   title: "Caldwell Muboyi Portfolio"
 
 navbar:
-  background: "#002855"
   left:
     - text: Home
       href: index.html
@@ -36,16 +35,3 @@ navbar:
           href: bcg-fish/contact.html
     - text: Contact
       href: contact.html
-
-format:
-  html:
-    toc: false
-    theme: cosmo
-    code-fold: true
-    code-line-numbers: false
-
-execute:
-  echo: true
-  warning: false
-  message: false
-

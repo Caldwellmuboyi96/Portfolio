@@ -1,14 +1,35 @@
 ---
-title: ""
+
+---
+
+---
+title: "Caldwell Muboyi | Data Analyst Portfolio"
+format: html
 ---
 
 # 👋 Hi, I'm Caldwell Muboyi
 
 🎓 **Statistics Graduate** (University of Zimbabwe, 2.1 Class)\
-💡 **Data Analyst** skilled in **R**, **Python**, and **Power BI**
+💡 **Data Analyst skilled in R, Python, and Power BI**
 
-I’m passionate about turning data into insights, creating interactive dashboards, and helping businesses make data-driven decisions.
+I’m passionate about transforming data into insights, building interactive dashboards, and helping businesses make data-driven decisions.
 
-Explore: - My [**Projects**](projects/churn-analysis.qmd) in R & Python\
-- My [**BCG Tech Store**](bcg-tech-store/index.qmd) where I share tech products and solutions\
-- And more about [**me**](about.qmd)!
+------------------------------------------------------------------------
+
+## 🔗 Explore My Work and Businesses
+
+-   📊 [**My Projects**](projects/index.qmd)\
+    Explore projects I’ve built in **R** and **Python**, covering data analysis, visualization, and reporting.
+
+-   🛍️ [**BCG Tech Store**](bcg-tech-store/index.qmd)\
+    Discover **cell phones and accessories** available for sale through **BCG Tech Store**.
+
+-   🐟 [**BCG Fish**](bcg-fish/index.qmd)\
+    Supplying **fresh fish** at **\$4.50 per kg**, directly from **Tokwe Mukosi** under the **BCG Fish** brand.
+
+-   🙌 [**About Me**](about.qmd)\
+    Learn more about my background, skills, and professional journey.
+
+------------------------------------------------------------------------
+
+📬 **Contact:** [caldwellmuboyi96\@gmail.com](mailto:caldwellmuboyi96@gmail.com)
