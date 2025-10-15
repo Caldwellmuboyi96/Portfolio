@@ -1,0 +1,19 @@
+---
+title: "Customer Churn Analysis and Prediction"
+format: html
+---
+
+# 📊 Customer Churn Analysis and Prediction
+
+This project explored customer behavior to predict churn and uncover key factors contributing to customer attrition.  
+It was implemented using **R** and **Python (via Reticulate)**, integrating statistical analysis with machine learning workflows.
+
+**Tools & Technologies:** R, Python (scikit-learn, reticulate) 
+
+**Highlights:**
+- Developed a hybrid R–Python predictive model to identify customers at high risk of churn  
+- Integrated data wrangling, feature engineering, and model training across both languages  
+- Published results and full analysis on RPubs:
+
+[➡ View on RPubs](https://rpubs.com/Caldwell_Muboyi){.btn .btn-primary target="_blank"}
+

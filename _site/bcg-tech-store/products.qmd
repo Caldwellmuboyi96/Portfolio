@@ -1,0 +1,59 @@
+---
+title: "Products"
+format: html
+---
+
+# The Products we have in the stock
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(readxl)
+library(dplyr)
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+products <- read.csv("C:/Users/160250/Desktop/BCG/BCG-Tech-Store/data/products.csv")
+
+phones <- filter(products, Category == "Phone")
+accessories <- filter(products, Category == "Accessories")
+
+whatsapp_number <- "+263718834476"
+
+```
+
+## Phones
+
+```{R}
+#| echo: false
+#| results: asis
+
+for(i in 1:nrow(phones)){
+  cat("### ", phones$Name[i], " – $", phones$Price[i], "\n", sep = "")
+  cat("![](", phones$ImageURL[i], "){width=200}\n", sep = "")
+  cat("[Order on WhatsApp](https://wa.me/", whatsapp_number,
+      "?text=", URLencode(phones$WhatsAppText[i]),
+      "){.btn .btn-success target=\"_blank\"}\n\n", sep = "")
+}
+
+```
+
+## Accessories
+
+```{r}
+#| echo: false
+#| results: asis
+for(i in 1:nrow(accessories)){
+  cat("### ", accessories$Name[i], " – $", accessories$Price[i], "\n", sep = "")
+  cat("![](", accessories$ImageURL[i], "){width=200}\n", sep = "")
+  cat("[Order on WhatsApp](https://wa.me/", whatsapp_number,
+      "?text=", URLencode(accessories$WhatsAppText[i]),
+      "){.btn .btn-success target=\"_blank\"}\n\n", sep = "")
+}
+
+```

@@ -1,0 +1,5 @@
+Name,ImageURL,WhatsAppText,Price
+Tilapia,https://example.com/images/tilapia.jpg,"Hello, I want to order Tilapia per kg",$4.50 
+Catfish,https://example.com/images/catfish.jpg,"Hello, I want to order Catfish per kg",$4.50 
+Bream,https://example.com/images/bream.jpg,"Hello, I want to order Bream per kg",$4.50 
+Carp,https://example.com/images/carp.jpg,"Hello, I want to order Carp per kg",$4.50 

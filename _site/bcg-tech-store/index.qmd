@@ -1,0 +1,11 @@
+---
+title: "BCG Tech Store"
+---
+
+# 🛍️ Welcome to BCG Tech Store
+
+Your one-stop destination for tech products and IT solutions.
+
+Explore:
+- 💻 [Products](products.qmd)
+- 📞 [Contact Us](contact.qmd)

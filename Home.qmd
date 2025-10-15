@@ -1,3 +1,66 @@
 ---
 title: "Welcome to My Portfolio"
+format: html
 ---
+
+# 🏠 Welcome to My Portfolio
+
+Hello! I'm **Caldwell Muboyi**, a **Statistics Graduate** (University of Zimbabwe, 2.1 Class) and a passionate **Data Analyst** skilled in **R, Python, and Power BI**.
+
+I specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions.
+
+------------------------------------------------------------------------
+
+## 🔹 What I Do
+
+-   📊 **Data Analysis & Visualization:** Clean, explore, and visualize datasets in R & Python\
+-   🤖 **Predictive Modeling:** Build models to forecast trends and customer behavior\
+-   📈 **Dashboard Development:** Create interactive dashboards in Power BI and Excel\
+-   👥 **Customer Insights:** Focus on enhancing customer experience and retention
+
+------------------------------------------------------------------------
+
+## 📂 Featured Projects
+
+### 📉 Customer Churn Analysis
+
+Analyzed customer behavior to predict churn and identify retention strategies.
+
+**Tools:** R, Python, Power BI\
+**Focus:** Enhancing customer experience — the key to customer retention\
+👉 [View Project on RPubs](https://rpubs.com/Caldwell_Muboyi)
+
+------------------------------------------------------------------------
+
+### 📊 Power BI Dashboards
+
+Developed interactive dashboards combining multiple datasets.\
+Integrated R and Python visualizations for dynamic insights.\
+👉 [View Project](#)
+
+------------------------------------------------------------------------
+
+## 🛍️ BCG Tech Store
+
+Explore the tech products I sell under **BCG Tech Store**:
+
+-   💻 Laptops & Desktops\
+-   📱 Cell Phones
+
+👉 [Visit Store Section](Projects.html)
+
+------------------------------------------------------------------------
+
+## 🐟 BCG Fish Supplier – Tokwe Mukosi Fresh Fish
+
+I also sell **fresh fish** sourced from **Tokwe Mukosi** under **BCG Fish Supplier**.
+
+-   🐠 Tilapia, Bream, Catfish & more\
+-   💲 **\$4.50 USD per kg**\
+-   📍 Delivered fresh across Zimbabwe
+
+💬 [Order on WhatsApp](https://wa.me/263718834476?text=Hello%20Caldwell,%20I%20want%20to%20order%20fresh%20fish%20from%20Tokwe%20Mukosi){.btn .btn-success target="_blank"}
+
+------------------------------------------------------------------------
+
+© 2025 Caldwell Muboyi \| All Rights Reserved
