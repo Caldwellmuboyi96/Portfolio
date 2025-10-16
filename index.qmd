@@ -1,6 +1,6 @@
----
+------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
 ---
 title: "Caldwell Muboyi | Data Analyst Portfolio"
@@ -21,10 +21,10 @@ I’m passionate about transforming data into insights, building interactive das
 -   📊 [**My Projects**](projects/index.qmd)\
     Explore projects I’ve built in **R** and **Python**, covering data analysis, visualization, and reporting.
 
--   🛍️ [**BCG Tech Store**](bcg-tech-store/index.qmd)\
+-   🛍️ [**BCG Store**](bcg-tech-store/index.html)\
     Discover **cell phones and accessories** available for sale through **BCG Tech Store**.
 
--   🐟 [**BCG Fish**](bcg-fish/index.qmd)\
+-   🐟 [**BCG Fish**](bcg-fish/index.html)\
     Supplying **fresh fish** at **\$4.50 per kg**, directly from **Tokwe Mukosi** under the **BCG Fish** brand.
 
 -   🙌 [**About Me**](about.qmd)\
@@ -33,3 +33,5 @@ I’m passionate about transforming data into insights, building interactive das
 ------------------------------------------------------------------------
 
 📬 **Contact:** [caldwellmuboyi96\@gmail.com](mailto:caldwellmuboyi96@gmail.com)
+
+### 🔙 [Return to Home](../index.qmd)

@@ -52,12 +52,14 @@ Fresh fish sourced directly from **Tokwe Mukosi** — sold at **\$4.50 USD per k
 ## 📱 BCG Tech Store
 
 Explore a range of **phones, laptops, and accessories** at affordable prices.\
-[Shop Now](https://github.com/Caldwellmuboyi96/BCG-Tech-Store){.btn .btn-primary target="_blank"}
+[Shop Now](https://caldwellmuboyi96.github.io/bcg-tech-store/){.btn .btn-primary target="_blank"}
 
 ------------------------------------------------------------------------
 
 📞 **Contact Me**\
 [Message on WhatsApp](https://wa.me/263718834476){.btn .btn-success target="_blank"}\
-✉️ [caldwellmuboyi96\@gmail.com](mailto:caldwellmuboyi96@gmail.com)
+✉️ [caldwellmuboyi96\@gmail.](mailto:caldwellmuboyi96@gmail.com)
+
+### 🔙 [Return to Home](../index.qmd)
 
 © 2025 Caldwell Muboyi \| All Rights Reserved

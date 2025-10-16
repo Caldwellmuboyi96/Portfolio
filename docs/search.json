@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "My Data Projects",
+    "section": "",
+    "text": "Welcome to my collection of data projects.\nEach project showcases my ability to apply R, Python, and Power BI to real-world data — from analysis and visualization to building interactive dashboards.\n\n\n\n\n\nTools: R, ggplot2, caret, tidyverse\nPublished on: R Pubs\nOverview:\nThis project explores customer churn behavior using statistical analysis and predictive modeling.\nI applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.\n👉 View the Full Project on R Pubs\n\n\n\n\n\n\n\nAn interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency."
+  },
+  {
+    "objectID": "projects/index.html#featured-project",
+    "href": "projects/index.html#featured-project",
+    "title": "My Data Projects",
+    "section": "",
+    "text": "Tools: R, ggplot2, caret, tidyverse\nPublished on: R Pubs\nOverview:\nThis project explores customer churn behavior using statistical analysis and predictive modeling.\nI applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.\n👉 View the Full Project on R Pubs"
+  },
+  {
+    "objectID": "projects/index.html#more-projects-coming-soon",
+    "href": "projects/index.html#more-projects-coming-soon",
+    "title": "My Data Projects",
+    "section": "",
+    "text": "An interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency."
+  },
+  {
     "objectID": "Home.html",
     "href": "Home.html",
     "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "Hello! I’m Caldwell Muboyi, a Statistics Graduate (University of Zimbabwe, 2.1 Class) and a passionate Data Analyst skilled in R, Python, and Power BI.\nI specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions.\n\n\n\n\n📊 Data Analysis & Visualization: Clean, explore, and visualize datasets in R & Python\n\n🤖 Predictive Modeling: Build models to forecast trends and customer behavior\n\n📈 Dashboard Development: Create interactive dashboards in Power BI and Excel\n\n👥 Customer Insights: Focus on enhancing customer experience and retention\n\n\n\n\n\n\n\nAnalyzed customer behavior to predict churn and identify retention strategies.\nTools: R, Python, Power BI\nFocus: Enhancing customer experience — the key to customer retention\n👉 View Project on RPubs\n\n\n\n\nDeveloped interactive dashboards combining multiple datasets.\nIntegrated R and Python visualizations for dynamic insights.\n👉 View Project\n\n\n\n\n\nExplore the tech products I sell under BCG Tech Store:\n\n💻 Laptops & Desktops\n\n📱 Cell Phones\n\n👉 Visit Store Section\n\n\n\n\nI also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "Hello! I’m Caldwell Muboyi, a Statistics Graduate (University of Zimbabwe, 2.1 Class) and a passionate Data Analyst skilled in R, Python, and Power BI.\nI specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions.\n\n\n\n\n📊 Data Analysis & Visualization: Clean, explore, and visualize datasets in R & Python\n\n🤖 Predictive Modeling: Build models to forecast trends and customer behavior\n\n📈 Dashboard Development: Create interactive dashboards in Power BI and Excel\n\n👥 Customer Insights: Focus on enhancing customer experience and retention\n\n\n\n\n\n\n\nAnalyzed customer behavior to predict churn and identify retention strategies.\nTools: R, Python, Power BI\nFocus: Enhancing customer experience — the key to customer retention\n👉 View Project on RPubs\n\n\n\n\nDeveloped interactive dashboards combining multiple datasets.\nIntegrated R and Python visualizations for dynamic insights.\n👉 View Project\n\n\n\n\n\nExplore the tech products I sell under BCG Tech Store:\n\n💻 Laptops & Desktops\n\n📱 Cell Phones\n\n👉 Visit Store Section\n\n\n\n\nI also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
     "objectID": "Home.html#what-i-do",
@@ -32,7 +53,35 @@
     "href": "Home.html#bcg-fish-supplier-tokwe-mukosi-fresh-fish",
     "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "I also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "I also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
+  },
+  {
+    "objectID": "bcg-tech-store/index.html",
+    "href": "bcg-tech-store/index.html",
+    "title": "index",
+    "section": "",
+    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp"
+  },
+  {
+    "objectID": "bcg-tech-store/index.html#phones",
+    "href": "bcg-tech-store/index.html#phones",
+    "title": "index",
+    "section": "",
+    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp"
+  },
+  {
+    "objectID": "bcg-tech-store/index.html#accessories",
+    "href": "bcg-tech-store/index.html#accessories",
+    "title": "index",
+    "section": "",
+    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp"
+  },
+  {
+    "objectID": "bcg-fish/index.html",
+    "href": "bcg-fish/index.html",
+    "title": "BCG Fish",
+    "section": "",
+    "text": "🐟 The Fresh Fish We Have in Stock\nWelcome to BCG Fish, your source for fresh fish from Tokwe Mukosi.\nAll fish are priced at $4.50 per kg. Contact me via WhatsApp to place your order.\n#| echo: false #| results: asis\nfor(i in 1:nrow(fish)){ cat(“###”, fish$Name[i], ” – \\(\", fish\\)Price[i], ” per kg“, sep =”“) cat(”![](“, fish\\(ImageURL[i], \"){width=200}\\n\", sep = \"\")\ncat(\"[Order on WhatsApp]([https://wa.me/](https://wa.me/)\",\ngsub(\"\\+\", \"\", whatsapp_number),\n\"?text=\", URLencode(fish\\)WhatsAppText[i]),”){.btn .btn-success target=“_blank”}“, sep =”“) }"
   },
   {
     "objectID": "about.html#bcg-fish-supplier",
@@ -46,7 +95,14 @@
     "href": "about.html#bcg-tech-store",
     "title": "🏠 Welcome to My Portfolio",
     "section": "📱 BCG Tech Store",
-    "text": "📱 BCG Tech Store\nExplore a range of phones, laptops, and accessories at affordable prices.\nShop Now\n\n📞 Contact Me\nMessage on WhatsApp\n✉️ caldwellmuboyi96@gmail.com\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "📱 BCG Tech Store\nExplore a range of phones, laptops, and accessories at affordable prices.\nShop Now\n\n📞 Contact Me\nMessage on WhatsApp\n✉️ caldwellmuboyi96@gmail.\n\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
+  },
+  {
+    "objectID": "bcg-fish/products.html",
+    "href": "bcg-fish/products.html",
+    "title": "products",
+    "section": "",
+    "text": "🔙 Return to Home"
   },
   {
     "objectID": "Contact.html",
@@ -60,6 +116,6 @@
     "href": "index.html#explore-my-work-and-businesses",
     "title": "Caldwell Muboyi | Data Analyst Portfolio",
     "section": "🔗 Explore My Work and Businesses",
-    "text": "🔗 Explore My Work and Businesses\n\n📊 My Projects\nExplore projects I’ve built in R and Python, covering data analysis, visualization, and reporting.\n🛍️ BCG Tech Store\nDiscover cell phones and accessories available for sale through BCG Tech Store.\n🐟 BCG Fish\nSupplying fresh fish at $4.50 per kg, directly from Tokwe Mukosi under the BCG Fish brand.\n🙌 About Me\nLearn more about my background, skills, and professional journey.\n\n\n📬 Contact: caldwellmuboyi96@gmail.com"
+    "text": "🔗 Explore My Work and Businesses\n\n📊 My Projects\nExplore projects I’ve built in R and Python, covering data analysis, visualization, and reporting.\n🛍️ BCG Store\nDiscover cell phones and accessories available for sale through BCG Tech Store.\n🐟 BCG Fish\nSupplying fresh fish at $4.50 per kg, directly from Tokwe Mukosi under the BCG Fish brand.\n🙌 About Me\nLearn more about my background, skills, and professional journey.\n\n\n📬 Contact: caldwellmuboyi96@gmail.com\n\n🔙 Return to Home"
   }
 ]

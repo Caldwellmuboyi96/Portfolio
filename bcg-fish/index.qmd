@@ -1,5 +1,50 @@
 ---
-title: "index"
-format: html
+title: "BCG Fish"
+format:
+  html:
+    theme: cosmo
 ---
+
+# 🐟 The Fresh Fish We Have in Stock
+
+Welcome to **BCG Fish**, your source for **fresh fish** from Tokwe Mukosi.  
+All fish are priced at **$4.50 per kg**. Contact me via WhatsApp to place your order.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(dplyr)
+library(readr)
+
+# Load fish CSV (place it inside bcg-fish/data/fish.csv)
+fish <- read_csv("C:/Users/160250/Desktop/BCG/Caldwell Muboyi/bcg-fish/data/fish.csv")
+
+# WhatsApp number
+whatsapp_number <- "+263718834476"
+```
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+for(i in 1:nrow(fish)){
+cat("### ", fish$Name[i], " – $", fish$Price[i], " per kg\n", sep = "")
+cat("![](", fish$ImageURL[i], "){width=200}\n", sep = "")
+cat("[Order on WhatsApp]([https://wa.me/](https://wa.me/)",
+gsub("\+", "", whatsapp_number),
+"?text=", URLencode(fish$WhatsAppText[i]),
+"){.btn .btn-success target="_blank"}\n\n", sep = "")
+}
+
+
+
+
+
+
+
+
+
 

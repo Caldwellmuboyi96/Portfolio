@@ -1,0 +1,37 @@
+---
+title: "My Data Projects"
+format: html
+---
+
+# 📊 My Data Projects
+
+Welcome to my collection of data projects.  
+Each project showcases my ability to apply **R**, **Python**, and **Power BI** to real-world data — from analysis and visualization to building interactive dashboards.
+
+---
+
+## 🧠 Featured Project
+
+### 🧍‍♂️ Customer Churn Analysis  
+**Tools:** R, ggplot2, caret, tidyverse  
+**Published on:** [R Pubs](https://rpubs.com/Caldwell_Muboyi)
+
+**Overview:**  
+This project explores **customer churn behavior** using statistical analysis and predictive modeling.  
+I applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.
+
+👉 **[View the Full Project on R Pubs](https://rpubs.com/Caldwell_Muboyi)**
+
+---
+
+## 🚧 More Projects (Coming Soon)
+
+### 📈 Sales and Revenue Dashboard – *Power BI*  
+An interactive dashboard tracking revenue trends, regional performance, and KPIs.
+
+### 🐍 Data Cleaning and Automation – *Python (Pandas)*  
+A Python script automating data transformation and report generation for improved efficiency.
+
+---
+
+### 🔙 [Return to Home](../index.qmd)
