@@ -58,4 +58,4 @@ for(i in 1:nrow(accessories)){
 
 ```
 
-### 🔙 [Return to Home](../index.qmd)
+© 2025 Caldwell Muboyi | All Rights Reserved

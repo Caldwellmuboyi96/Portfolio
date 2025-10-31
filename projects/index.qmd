@@ -32,6 +32,6 @@ An interactive dashboard tracking revenue trends, regional performance, and KPIs
 ### 🐍 Data Cleaning and Automation – *Python (Pandas)*  
 A Python script automating data transformation and report generation for improved efficiency.
 
----
+🔙 Return to Home
 
-### 🔙 [Return to Home](../index.qmd)
+© 2025 Caldwell Muboyi | All Rights Reserved

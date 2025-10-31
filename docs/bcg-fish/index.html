@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
@@ -39,11 +40,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -66,43 +67,101 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
+<link rel="stylesheet" href="styles/styles.css">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Caldwell Muboyi Portfolio</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="../projects/churn-analysis.html">
+ <span class="dropdown-text">Customer Churn Analysis</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../projects/powerbi-dashboards.html">
+ <span class="dropdown-text">Power BI Dashboards</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bcg-tech-store" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">BCG Tech Store</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-bcg-tech-store">    
+        <li>
+    <a class="dropdown-item" href="../bcg-tech-store/index.html">
+ <span class="dropdown-text">Store Home</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../bcg-tech-store/products.html">
+ <span class="dropdown-text">Products</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../bcg-tech-store/contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bcg-tokwe-mukosi-fish" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">BCG Tokwe Mukosi Fish</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-bcg-tokwe-mukosi-fish">    
+        <li>
+    <a class="dropdown-item" href="../bcg-fish/index.html">
+ <span class="dropdown-text">Fish Home</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../bcg-fish/products.html">
+ <span class="dropdown-text">Products</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../bcg-fish/contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -132,13 +191,55 @@ window.Quarto = {
 <h1>🐟 The Fresh Fish We Have in Stock</h1>
 <p>Welcome to <strong>BCG Fish</strong>, your source for <strong>fresh fish</strong> from Tokwe Mukosi.<br>
 All fish are priced at <strong>$4.50 per kg</strong>. Contact me via WhatsApp to place your order.</p>
-<p>#| echo: false #| results: asis</p>
-<p>for(i in 1:nrow(fish)){ cat(“###”, fish$Name[i], ” – <span class="math inline">\(", fish\)</span>Price[i], ” per kg“, sep =”“) cat(”![](“, fish<span class="math inline">\(ImageURL[i], "){width=200}\n", sep = "")
-cat("[Order on WhatsApp]([https://wa.me/](https://wa.me/)",
-gsub("\+", "", whatsapp_number),
-"?text=", URLencode(fish\)</span>WhatsAppText[i]),”){.btn .btn-success target=“_blank”}“, sep =”“) }</p>
+<section id="bream-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="bream-4.5-per-kg">Bream – $4.5 per kg</h3>
+<p><img src="https://example.com/bream.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Bream." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="kariba-tilapia-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="kariba-tilapia-4.5-per-kg">Kariba Tilapia – $4.5 per kg</h3>
+<p><img src="https://example.com/kariba_tilapia.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Kariba%20Tilapia." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="catfish-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="catfish-4.5-per-kg">Catfish – $4.5 per kg</h3>
+<p><img src="https://example.com/catfish.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Catfish." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="tilapia-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="tilapia-4.5-per-kg">Tilapia – $4.5 per kg</h3>
+<p><img src="https://example.com/tilapia.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Tilapia." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="sardine-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="sardine-4.5-per-kg">Sardine – $4.5 per kg</h3>
+<p><img src="https://example.com/sardine.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Sardine." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="nile-perch-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="nile-perch-4.5-per-kg">Nile Perch – $4.5 per kg</h3>
+<p><img src="https://example.com/nile_perch.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Nile%20Perch." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="silver-carp-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="silver-carp-4.5-per-kg">Silver Carp – $4.5 per kg</h3>
+<p><img src="https://example.com/silver_carp.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Silver%20Carp." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="chessa-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="chessa-4.5-per-kg">Chessa – $4.5 per kg</h3>
+<p><img src="https://example.com/chessa.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Chessa." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+</section>
+<section id="mojarra-4.5-per-kg" class="level3">
+<h3 class="anchored" data-anchor-id="mojarra-4.5-per-kg">Mojarra – $4.5 per kg</h3>
+<p><img src="https://example.com/mojarra.jpg" class="img-fluid" width="200"></p>
+<p><a href="https://wa.me/263718834476?text=Hello%20Caldwell,%20I'm%20interested%20in%20buying%20Mojarra." class="btn btn-success" target="_blank">Order on WhatsApp</a></p>
+<p>🔙 Return to Home</p>
+<p>© 2025 Caldwell Muboyi | All Rights Reserved</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

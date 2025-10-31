@@ -31,14 +31,24 @@ whatsapp_number <- "+263718834476"
 #| results: asis
 
 for(i in 1:nrow(fish)){
-cat("### ", fish$Name[i], " – $", fish$Price[i], " per kg\n", sep = "")
-cat("![](", fish$ImageURL[i], "){width=200}\n", sep = "")
-cat("[Order on WhatsApp]([https://wa.me/](https://wa.me/)",
-gsub("\+", "", whatsapp_number),
-"?text=", URLencode(fish$WhatsAppText[i]),
-"){.btn .btn-success target="_blank"}\n\n", sep = "")
+  # Fish name and price
+  cat("### ", fish$Name[i], " – $", fish$Price[i], " per kg\n\n", sep = "")
+  
+  # Fish image
+  cat("![](", fish$ImageURL[i], "){width=200}\n\n", sep = "")
+  
+  # WhatsApp button
+  whatsapp_link <- paste0(
+    "https://wa.me/", 
+    gsub("\\+", "", whatsapp_number),
+    "?text=", URLencode(fish$WhatsAppText[i])
+  )
+  
+  cat("[Order on WhatsApp](", whatsapp_link, 
+      "){.btn .btn-success target=\"_blank\"}\n\n", sep = "")
 }
 
+```
 
 
 
@@ -48,3 +58,6 @@ gsub("\+", "", whatsapp_number),
 
 
 
+🔙 Return to Home
+
+© 2025 Caldwell Muboyi | All Rights Reserved
