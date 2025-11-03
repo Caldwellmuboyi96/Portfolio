@@ -1,11 +1,7 @@
 ---
-title: "Welcome to My Portfolio"
+title: "🏠 Welcome to My Portfolio"
 format: html
 ---
-
-# 🏠 Welcome to My Portfolio
-
-Hello! I'm **Caldwell Muboyi**, a **Statistics Graduate** (University of Zimbabwe, 2.1 Class) and a passionate **Data Analyst** skilled in **R, Python, and Power BI**.
 
 I specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions.
 

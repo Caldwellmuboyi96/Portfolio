@@ -1,8 +1,6 @@
 ---
 title: "BCG Fish"
-format:
-  html:
-    theme: cosmo
+format: html
 ---
 
 # 🐟 The Fresh Fish We Have in Stock
@@ -49,14 +47,6 @@ for(i in 1:nrow(fish)){
 }
 
 ```
-
-
-
-
-
-
-
-
 
 🔙 Return to Home
 

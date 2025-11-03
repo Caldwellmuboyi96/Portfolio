@@ -4,7 +4,7 @@
     "href": "projects/index.html",
     "title": "My Data Projects",
     "section": "",
-    "text": "Welcome to my collection of data projects.\nEach project showcases my ability to apply R, Python, and Power BI to real-world data — from analysis and visualization to building interactive dashboards.\n\n\n\n\n\nTools: R, ggplot2, caret, tidyverse\nPublished on: R Pubs\nOverview:\nThis project explores customer churn behavior using statistical analysis and predictive modeling.\nI applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.\n👉 View the Full Project on R Pubs\n\n\n\n\n\n\n\nAn interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency.\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "Welcome to my collection of data projects.\nEach project showcases my ability to apply R, Python, and Power BI to real-world data — from analysis and visualization to building interactive dashboards.\n\n\n\n\n\nTools: R, ggplot2, caret, tidyverse\nPublished on: R Pubs\nOverview:\nThis project explores customer churn behavior using statistical analysis and predictive modeling.\nI applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.\n👉 View the Full Project on R Pubs\n\n\n\n\n\n\n\nApp Link: View on ShinyApps.io\nOverview:\nAn interactive dashboard built with R Shiny to analyze and visualize car sales performance by model, region, and time period.\n\n\n\n\nApp Link: View on ShinyApps.io\nOverview:\nA dynamic R Shiny application providing insights into supermarket transactions — including revenue trends, customer behavior, and top-selling products.\n\n\n\n\n\n\n\nAn interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency.\n\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
     "objectID": "projects/index.html#featured-project",
@@ -14,67 +14,74 @@
     "text": "Tools: R, ggplot2, caret, tidyverse\nPublished on: R Pubs\nOverview:\nThis project explores customer churn behavior using statistical analysis and predictive modeling.\nI applied logistic regression and decision tree models to identify key factors influencing customer retention, and visualized the insights using R.\n👉 View the Full Project on R Pubs"
   },
   {
+    "objectID": "projects/index.html#interactive-data-apps-r-shiny",
+    "href": "projects/index.html#interactive-data-apps-r-shiny",
+    "title": "My Data Projects",
+    "section": "",
+    "text": "App Link: View on ShinyApps.io\nOverview:\nAn interactive dashboard built with R Shiny to analyze and visualize car sales performance by model, region, and time period.\n\n\n\n\nApp Link: View on ShinyApps.io\nOverview:\nA dynamic R Shiny application providing insights into supermarket transactions — including revenue trends, customer behavior, and top-selling products."
+  },
+  {
     "objectID": "projects/index.html#more-projects-coming-soon",
     "href": "projects/index.html#more-projects-coming-soon",
     "title": "My Data Projects",
     "section": "",
-    "text": "An interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency.\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "An interactive dashboard tracking revenue trends, regional performance, and KPIs.\n\n\n\nA Python script automating data transformation and report generation for improved efficiency.\n\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
     "objectID": "Home.html",
     "href": "Home.html",
-    "title": "Welcome to My Portfolio",
+    "title": "🏠 Welcome to My Portfolio",
     "section": "",
-    "text": "Hello! I’m Caldwell Muboyi, a Statistics Graduate (University of Zimbabwe, 2.1 Class) and a passionate Data Analyst skilled in R, Python, and Power BI.\nI specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions.\n\n\n\n\n📊 Data Analysis & Visualization: Clean, explore, and visualize datasets in R & Python\n\n🤖 Predictive Modeling: Build models to forecast trends and customer behavior\n\n📈 Dashboard Development: Create interactive dashboards in Power BI and Excel\n\n👥 Customer Insights: Focus on enhancing customer experience and retention\n\n\n\n\n\n\n\nAnalyzed customer behavior to predict churn and identify retention strategies.\nTools: R, Python, Power BI\nFocus: Enhancing customer experience — the key to customer retention\n👉 View Project on RPubs\n\n\n\n\nDeveloped interactive dashboards combining multiple datasets.\nIntegrated R and Python visualizations for dynamic insights.\n👉 View Project\n\n\n\n\n\nExplore the tech products I sell under BCG Tech Store:\n\n💻 Laptops & Desktops\n\n📱 Cell Phones\n\n👉 Visit Store Section\n\n\n\n\nI also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "I specialize in transforming raw data into actionable insights, creating interactive dashboards, and delivering solutions that help businesses make data-driven decisions."
   },
   {
     "objectID": "Home.html#what-i-do",
     "href": "Home.html#what-i-do",
-    "title": "Welcome to My Portfolio",
-    "section": "",
-    "text": "📊 Data Analysis & Visualization: Clean, explore, and visualize datasets in R & Python\n\n🤖 Predictive Modeling: Build models to forecast trends and customer behavior\n\n📈 Dashboard Development: Create interactive dashboards in Power BI and Excel\n\n👥 Customer Insights: Focus on enhancing customer experience and retention"
+    "title": "🏠 Welcome to My Portfolio",
+    "section": "🔹 What I Do",
+    "text": "🔹 What I Do\n\n📊 Data Analysis & Visualization: Clean, explore, and visualize datasets in R & Python\n\n🤖 Predictive Modeling: Build models to forecast trends and customer behavior\n\n📈 Dashboard Development: Create interactive dashboards in Power BI and Excel\n\n👥 Customer Insights: Focus on enhancing customer experience and retention"
   },
   {
     "objectID": "Home.html#featured-projects",
     "href": "Home.html#featured-projects",
-    "title": "Welcome to My Portfolio",
-    "section": "",
-    "text": "Analyzed customer behavior to predict churn and identify retention strategies.\nTools: R, Python, Power BI\nFocus: Enhancing customer experience — the key to customer retention\n👉 View Project on RPubs\n\n\n\n\nDeveloped interactive dashboards combining multiple datasets.\nIntegrated R and Python visualizations for dynamic insights.\n👉 View Project"
+    "title": "🏠 Welcome to My Portfolio",
+    "section": "📂 Featured Projects",
+    "text": "📂 Featured Projects\n\n📉 Customer Churn Analysis\nAnalyzed customer behavior to predict churn and identify retention strategies.\nTools: R, Python, Power BI\nFocus: Enhancing customer experience — the key to customer retention\n👉 View Project on RPubs\n\n\n\n📊 Power BI Dashboards\nDeveloped interactive dashboards combining multiple datasets.\nIntegrated R and Python visualizations for dynamic insights.\n👉 View Project"
   },
   {
     "objectID": "Home.html#bcg-tech-store",
     "href": "Home.html#bcg-tech-store",
-    "title": "Welcome to My Portfolio",
-    "section": "",
-    "text": "Explore the tech products I sell under BCG Tech Store:\n\n💻 Laptops & Desktops\n\n📱 Cell Phones\n\n👉 Visit Store Section"
+    "title": "🏠 Welcome to My Portfolio",
+    "section": "🛍️ BCG Tech Store",
+    "text": "🛍️ BCG Tech Store\nExplore the tech products I sell under BCG Tech Store:\n\n💻 Laptops & Desktops\n\n📱 Cell Phones\n\n👉 Visit Store Section"
   },
   {
     "objectID": "Home.html#bcg-fish-supplier-tokwe-mukosi-fresh-fish",
     "href": "Home.html#bcg-fish-supplier-tokwe-mukosi-fresh-fish",
-    "title": "Welcome to My Portfolio",
-    "section": "",
-    "text": "I also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "title": "🏠 Welcome to My Portfolio",
+    "section": "🐟 BCG Fish Supplier – Tokwe Mukosi Fresh Fish",
+    "text": "🐟 BCG Fish Supplier – Tokwe Mukosi Fresh Fish\nI also sell fresh fish sourced from Tokwe Mukosi under BCG Fish Supplier.\n\n🐠 Tilapia, Bream, Catfish & more\n\n💲 $4.50 USD per kg\n\n📍 Delivered fresh across Zimbabwe\n\n💬 Order on WhatsApp\n\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
     "objectID": "bcg-tech-store/index.html",
     "href": "bcg-tech-store/index.html",
-    "title": "index",
+    "title": "The Products we have in the stock",
     "section": "",
-    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp"
   },
   {
     "objectID": "bcg-tech-store/index.html#phones",
     "href": "bcg-tech-store/index.html#phones",
-    "title": "index",
+    "title": "The Products we have in the stock",
     "section": "",
     "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp"
   },
   {
     "objectID": "bcg-tech-store/index.html#accessories",
     "href": "bcg-tech-store/index.html#accessories",
-    "title": "index",
-    "section": "",
-    "text": "Order on WhatsApp\n\n\n\n Order on WhatsApp\n\n\n\n Order on WhatsApp\n© 2025 Caldwell Muboyi | All Rights Reserved"
+    "title": "The Products we have in the stock",
+    "section": "Accessories",
+    "text": "Accessories\n\nWireless Earbuds – $50\n Order on WhatsApp\n\n\niPhone Charger – $25\n Order on WhatsApp\n\n\nSamsung Phone Case – $15\n Order on WhatsApp\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
     "objectID": "bcg-fish/index.html",
@@ -84,16 +91,23 @@
     "text": "🐟 The Fresh Fish We Have in Stock\nWelcome to BCG Fish, your source for fresh fish from Tokwe Mukosi.\nAll fish are priced at $4.50 per kg. Contact me via WhatsApp to place your order.\n\nBream – $4.5 per kg\n\nOrder on WhatsApp\n\n\nKariba Tilapia – $4.5 per kg\n\nOrder on WhatsApp\n\n\nCatfish – $4.5 per kg\n\nOrder on WhatsApp\n\n\nTilapia – $4.5 per kg\n\nOrder on WhatsApp\n\n\nSardine – $4.5 per kg\n\nOrder on WhatsApp\n\n\nNile Perch – $4.5 per kg\n\nOrder on WhatsApp\n\n\nSilver Carp – $4.5 per kg\n\nOrder on WhatsApp\n\n\nChessa – $4.5 per kg\n\nOrder on WhatsApp\n\n\nMojarra – $4.5 per kg\n\nOrder on WhatsApp\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data AnaIyst specializes in data analysis using R and Python, integrating both through Reticulate, and building interactive dashboards in Power BI and Excel."
+  },
+  {
     "objectID": "about.html#bcg-fish-supplier",
     "href": "about.html#bcg-fish-supplier",
-    "title": "🏠 Welcome to My Portfolio",
+    "title": "About",
     "section": "🐟 BCG Fish Supplier",
     "text": "🐟 BCG Fish Supplier\nFresh fish sourced directly from Tokwe Mukosi — sold at $4.50 USD per kg.\nOrder on WhatsApp"
   },
   {
     "objectID": "about.html#bcg-tech-store",
     "href": "about.html#bcg-tech-store",
-    "title": "🏠 Welcome to My Portfolio",
+    "title": "About",
     "section": "📱 BCG Tech Store",
     "text": "📱 BCG Tech Store\nExplore a range of phones, laptops, and accessories at affordable prices.\nShop Now\n\n📞 Contact Me\nMessage on WhatsApp\n✉️ caldwellmuboyi96@gmail.\n\n🔙 Return to Home\n© 2025 Caldwell Muboyi | All Rights Reserved"
   },

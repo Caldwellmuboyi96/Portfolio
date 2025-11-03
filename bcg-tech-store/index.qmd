@@ -1,9 +1,9 @@
 ---
-title: "index"
+title: "The Products we have in the stock"
 format: html
+    
 ---
 
-# The Products we have in the stock
 
 ```{r}
 #| echo: false
